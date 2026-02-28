@@ -1,0 +1,10 @@
+build/
+venv/
+.vscode/
+onnxruntime/
+onnxruntime-linux-x64-1.17.1.tgz
+*.mp4
+*.avi
+*.pt
+__pycache__/
+*.pyc
